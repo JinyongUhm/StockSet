@@ -17,7 +17,8 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
+[Dd]ebug/*
+!PriceMiner2/bin/Debug/CandleServiceInterfacePrj.dll
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
