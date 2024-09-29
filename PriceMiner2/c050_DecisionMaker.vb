@@ -1732,7 +1732,8 @@ Public Class c05G_DoubleFall
                     last_price_candidate.Sort() '쏘팅
 
                     '2024.09.22 : 매수가를 더 낮추기 위해 아래 반복문의 순서를 반대로 했다.
-                    For candidate_index As Integer = 0 To last_price_candidate.Count - 1 ' last_price_candidate.Count - 1 To 0 Step -1
+		    '2024.09.29 : 다시 원상 복귀
+                    For candidate_index As Integer = last_price_candidate.Count - 1 To 0 Step -1
                         target_list.Add(last_price_candidate(candidate_index))  '마지막에 후보를 붙인다.
                         score_for_candidate.Add(GetScore2WithNormalize(target_list.ToArray()))    '스코어를 계산한다.
                         target_list.RemoveAt(target_list.Count - 1)             '마지막에 붙인 후보를 다시 지운다.
@@ -1785,7 +1786,8 @@ Public Class c05G_DoubleFall
         Else
             '2024.01.18 : 여러개가 걸렸으면 그 중에 가격이 제일 높은 것을 골라 보낸다. 낚시 성공률을 높이기 위함이다.
             '2024.09.22 : 매수가를 더 낮추기 위해 아래 Max 에서 Min 으로 바꿨다.
-            Return result_list.Min
+	    '2024.09.29 : 다시 원상 복귀
+            Return result_list.Max
         End If
     End Function
 #End If
@@ -2738,7 +2740,8 @@ Public Class c05F_FlexiblePCRenew
                     last_price_candidate.Sort() '쏘팅
 
                     '2024.09.22 : 매수가를 더 낮추기 위해 아래 반복문의 순서를 반대로 했다.
-                    For candidate_index As Integer = 0 To last_price_candidate.Count - 1 ' last_price_candidate.Count - 1 To 0 Step -1
+		    '2024.09.29 : 다시 원상 복귀
+                    For candidate_index As Integer = last_price_candidate.Count - 1 To 0 Step -1 ' 0 To last_price_candidate.Count - 1 
                         target_list.Add(last_price_candidate(candidate_index))  '마지막에 후보를 붙인다.
                         score_for_candidate.Add(GetScoreWithNormalize(target_list.ToArray()))    '스코어를 계산한다.
                         target_list.RemoveAt(target_list.Count - 1)             '마지막에 붙인 후보를 다시 지운다.
@@ -2793,7 +2796,8 @@ Public Class c05F_FlexiblePCRenew
             Return -1
         Else
             '2024.09.22 : 매수가를 더 낮추기 위해 아래 Max 에서 Min 으로 바꿨다.
-            Return result_list.Min
+	    '2024.09.29 : 다시 원상 복귀
+            Return result_list.Max
         End If
     End Function
 

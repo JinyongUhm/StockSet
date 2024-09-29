@@ -4,3 +4,13 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # 다시 없애기
+
+!PriceMiner2/bin/Debug/CandleServiceInterfacePrj.dll
+!PriceMiner2/bin/Debug/GraphLib.dll
+!PriceMiner2/bin/Debug/stocks_for_tomorrow.xml
+!PriceMiner2/bin/Release/CandleServiceInterfacePrj.dll
+!PriceMiner2/bin/Release/GraphLib.dll
+!PriceMiner2/bin/Release/stocks_for_tomorrow.xml
+
+!StockSearcher2/bin/Debug/GraphLib.dll
+!StockSearcher2/bin/Release/GraphLib.dll
