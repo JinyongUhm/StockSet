@@ -134,7 +134,7 @@ Module m00_Global
     Public Const SUB_BUY_POWER = 0.0
     Public Const TEST_BUY_POWER = 0.0
     Public Const ACCOUNT_TASK_MIN_PERIOD = 600
-    Public Const PRETH_DISCOUNT = 0.997
+    Public Const PRETH_DISCOUNT = 1.001
 
     Public SymTree As New c01_Symtree
     Public SymbolList As New List(Of c03_Symbol)
