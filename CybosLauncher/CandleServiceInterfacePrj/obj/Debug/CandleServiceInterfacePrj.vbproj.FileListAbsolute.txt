@@ -1,7 +1,0 @@
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\obj\Debug\CandleServiceInterfacePrj.vbproj.CoreCompileInputs.cache
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\bin\Debug\CandleServiceInterfacePrj.dll.config
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\bin\Debug\CandleServiceInterfacePrj.dll
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\bin\Debug\CandleServiceInterfacePrj.pdb
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\obj\Debug\CandleServiceInterfacePrj.dll
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\obj\Debug\CandleServiceInterfacePrj.pdb
-D:\Development\CybosLauncher\CandleServiceInterfacePrj\obj\Debug\CandleServiceInterfacePrj.vbproj.AssemblyReference.cache

@@ -1,3 +1,0 @@
-D:\Development\PriceMiner\PriceMiner\obj\Debug\Interop.CPUTILLib.dll
-D:\Development\PriceMiner\PriceMiner\obj\Debug\Interop.DSCBO1Lib.dll
-D:\Development\PriceMiner\PriceMiner\obj\Debug\PriceMinir.vbproj.ResolveComReference.cache
