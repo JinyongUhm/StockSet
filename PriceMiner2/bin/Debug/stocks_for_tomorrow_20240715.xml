@@ -1,0 +1,8 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A219130 scan_start_date="2024.04.19">
+      <MA_BASE_9600 quantity="3" ave_price="26250" />
+    </A219130>
+  </SubAccount>
+</stocks>

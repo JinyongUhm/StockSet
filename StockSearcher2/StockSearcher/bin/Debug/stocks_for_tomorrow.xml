@@ -1,0 +1,15 @@
+<stocks>
+  <MainAccount>
+    <A003620>
+      <MA_BASE_0035 quantity="10" ave_price="2780" />
+    </A000020>
+    <A226350>
+      <MA_BASE_0035 quantity="29" ave_price="217" />
+    </A226350>
+  </MainAccount>
+  <SubAccount>
+    <A226350>
+      <MA_BASE_1200 quantity="29" ave_price="217" />
+    </A226350>
+  </SubAccount>
+</stocks>

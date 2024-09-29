@@ -1,0 +1,54 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A008600 scan_start_date="2023.12.02">
+      <MA_BASE_9600 quantity="10" ave_price="536" />
+    </A008600>
+    <A015590 scan_start_date="2023.11.29">
+      <MA_BASE_9600 quantity="12" ave_price="438" />
+    </A015590>
+    <A018000 scan_start_date="2023.12.13">
+      <MA_BASE_2400 quantity="5" ave_price="1077" />
+    </A018000>
+    <A023790 scan_start_date="2023.12.09">
+      <MA_BASE_2400 quantity="5" ave_price="1016" />
+      <MA_BASE_4800 quantity="5" ave_price="1019" />
+      <MA_BASE_9600 quantity="5" ave_price="1016" />
+    </A023790>
+    <A033290 scan_start_date="2023.12.02">
+      <MA_BASE_9600 quantity="1" ave_price="3735" />
+    </A033290>
+    <A062970 scan_start_date="2023.12.02">
+      <MA_BASE_4800 quantity="3" ave_price="1600" />
+      <MA_BASE_9600 quantity="3" ave_price="1592" />
+    </A062970>
+    <A175140 scan_start_date="2023.12.10">
+      <MA_BASE_2400 quantity="1" ave_price="3470" />
+      <MA_BASE_4800 quantity="1" ave_price="3630" />
+      <MA_BASE_9600 quantity="1" ave_price="3450" />
+    </A175140>
+    <A182400 scan_start_date="2023.12.01">
+      <MA_BASE_9600 quantity="1" ave_price="2360" />
+    </A182400>
+    <A297890 scan_start_date="2023.11.23">
+      <MA_BASE_9600 quantity="1" ave_price="4320" />
+    </A297890>
+    <A299900 scan_start_date="2023.11.23">
+      <MA_BASE_9600 quantity="1" ave_price="2930" />
+    </A299900>
+    <A323230 scan_start_date="2023.12.13">
+      <MA_BASE_2400 quantity="4" ave_price="1346" />
+      <MA_BASE_4800 quantity="4" ave_price="1312" />
+      <MA_BASE_9600 quantity="4" ave_price="1353" />
+    </A323230>
+    <A373200 scan_start_date="2023.12.14">
+      <MA_BASE_4800 quantity="1" ave_price="3955" />
+    </A373200>
+    <A452300 scan_start_date="2023.12.02">
+      <MA_BASE_9600 quantity="1" ave_price="4470" />
+    </A452300>
+    <A900300 scan_start_date="2023.11.26">
+      <MA_BASE_9600 quantity="64" ave_price="81" />
+    </A900300>
+  </SubAccount>
+</stocks>

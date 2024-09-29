@@ -1,0 +1,64 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A003560>
+      <MA_BASE_4800 quantity="20" ave_price="213" />
+    </A003560>
+    <A014100>
+      <MA_BASE_4800 quantity="1" ave_price="3160" />
+      <MA_BASE_9600 quantity="1" ave_price="3090" />
+    </A014100>
+    <A041020>
+      <MA_BASE_2400 quantity="2" ave_price="2655" />
+      <MA_BASE_4800 quantity="2" ave_price="2520" />
+    </A041020>
+    <A048550>
+      <MA_BASE_9600 quantity="1" ave_price="3485" />
+    </A048550>
+    <A056730>
+      <MA_BASE_4800 quantity="2" ave_price="2185" />
+      <MA_BASE_9600 quantity="2" ave_price="2185" />
+    </A056730>
+    <A063440>
+      <MA_BASE_9600 quantity="1" ave_price="2335" />
+    </A063440>
+    <A065570>
+      <MA_BASE_9600 quantity="1" ave_price="4170" />
+    </A065570>
+    <A066980>
+      <MA_BASE_9600 quantity="1" ave_price="2835" />
+    </A066980>
+    <A101140>
+      <MA_BASE_2400 quantity="10" ave_price="475" />
+    </A101140>
+    <A102370>
+      <MA_BASE_9600 quantity="1" ave_price="5030" />
+    </A102370>
+    <A111870>
+      <MA_BASE_9600 quantity="1" ave_price="201" />
+    </A111870>
+    <A131100>
+      <MA_BASE_2400 quantity="2" ave_price="2410" />
+      <MA_BASE_4800 quantity="2" ave_price="2360" />
+    </A131100>
+    <A174880>
+      <MA_BASE_9600 quantity="6" ave_price="501" />
+    </A174880>
+    <A203690>
+      <MA_BASE_9600 quantity="1" ave_price="831" />
+    </A203690>
+    <A222810>
+      <MA_BASE_4800 quantity="3" ave_price="1450" />
+    </A222810>
+    <A288980>
+      <MA_BASE_2400 quantity="1" ave_price="4475" />
+    </A288980>
+    <A322510>
+      <MA_BASE_2400 quantity="1" ave_price="5100" />
+    </A322510>
+    <A900300>
+      <MA_BASE_4800 quantity="1" ave_price="181" />
+      <MA_BASE_9600 quantity="1" ave_price="192" />
+    </A900300>
+  </SubAccount>
+</stocks>

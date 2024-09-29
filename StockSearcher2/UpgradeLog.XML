@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StockSearcher">
+</Property><Property Name="Solution File" Value="D:\Development\StockSearcher\StockSearcher.sln">
+</Property><Property Name="User Options File" Value="D:\Development\StockSearcher\StockSearcher.suo">
+</Property><Property Name="Date" Value="2012년 5월 2일 수요일">
+</Property><Property Name="Time" Value="오후 23:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="StockSearcher.sln" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher.sln">
+</Event><Event ErrorLevel="0" Project="" Source="StockSearcher.suo" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher.suo">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\StockSearcher.vbproj" Description="Project file successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\StockSearcher.vbproj">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\StockSearcher.vbproj.user" Description="Project user file successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\StockSearcher.vbproj.user">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\c03_Symbol.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\c03_Symbol.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\c02_Bunch.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\c02_Bunch.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\c01_Symtree.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\c01_Symtree.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\c04_DBSupport.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\c04_DBSupport.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\c050_DecisionMaker.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\c050_DecisionMaker.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\Form1.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\Form1.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\Form1.Designer.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\m00_Global.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\m00_Global.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\uc0_ListViewSortable.Designer.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\uc0_ListViewSortable.Designer.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\uc0_ListViewSortable.vb" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\uc0_ListViewSortable.vb">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\ClassDiagram1.cd" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Application.myapp" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Settings.settings" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\Form1.resx" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\Form1.resx">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\My Project\Resources.resx" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\uc0_ListViewSortable.resx" Description="File successfully backed up as D:\Development\StockSearcher\Backup\StockSearcher\uc0_ListViewSortable.resx">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\StockSearcher.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="StockSearcher" Source="StockSearcher\StockSearcher.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StockSearcher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="StockSearcher.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StockSearcher" Source="StockSearcher\StockSearcher.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,71 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A005110>
+      <MA_BASE_9600 quantity="10" ave_price="452" />
+    </A005110>
+    <A024850>
+      <MA_BASE_2400 quantity="1" ave_price="3620" />
+      <MA_BASE_9600 quantity="1" ave_price="3600" />
+    </A024850>
+    <A032800>
+      <MA_BASE_9600 quantity="2" ave_price="437" />
+    </A032800>
+    <A038540>
+      <MA_BASE_9600 quantity="1" ave_price="4090" />
+    </A038540>
+    <A067390>
+      <MA_BASE_9600 quantity="1" ave_price="2890" />
+    </A067390>
+    <A079970>
+      <MA_BASE_9600 quantity="6" ave_price="892" />
+    </A079970>
+    <A088800>
+      <MA_BASE_9600 quantity="2" ave_price="2625" />
+    </A088800>
+    <A115450>
+      <MA_BASE_2400 quantity="1" ave_price="4165" />
+      <MA_BASE_4800 quantity="1" ave_price="4070" />
+      <MA_BASE_9600 quantity="1" ave_price="4140" />
+    </A115450>
+    <A115610>
+      <MA_BASE_2400 quantity="1" ave_price="2610" />
+    </A115610>
+    <A175250>
+      <MA_BASE_9600 quantity="1" ave_price="2500" />
+    </A175250>
+    <A189690>
+      <MA_BASE_2400 quantity="1" ave_price="3005" />
+    </A189690>
+    <A204630>
+      <MA_BASE_9600 quantity="11" ave_price="473" />
+    </A204630>
+    <A217620>
+      <MA_BASE_2400 quantity="1" ave_price="1010" />
+      <MA_BASE_4800 quantity="1" ave_price="973" />
+      <MA_BASE_9600 quantity="1" ave_price="1012" />
+    </A217620>
+    <A223310>
+      <MA_BASE_9600 quantity="1" ave_price="2670" />
+    </A223310>
+    <A277410>
+      <MA_BASE_4800 quantity="1" ave_price="2415" />
+    </A277410>
+    <A286750>
+      <MA_BASE_9600 quantity="1" ave_price="2000" />
+    </A286750>
+    <A352770>
+      <MA_BASE_9600 quantity="1" ave_price="5370" />
+    </A352770>
+    <A356680>
+      <MA_BASE_4800 quantity="1" ave_price="4820" />
+    </A356680>
+    <A376930>
+      <MA_BASE_9600 quantity="1" ave_price="4300" />
+    </A376930>
+    <A388790>
+      <MA_BASE_4800 quantity="1" ave_price="2805" />
+      <MA_BASE_9600 quantity="1" ave_price="3085" />
+    </A388790>
+  </SubAccount>
+</stocks>

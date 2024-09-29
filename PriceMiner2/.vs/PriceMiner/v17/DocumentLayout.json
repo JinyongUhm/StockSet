@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Development\\Git_StockSet\\PriceMiner2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\c050_decisionmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:c050_decisionmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\m00_global.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:m00_global.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\c03_symbol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:c03_symbol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|e:\\development\\git_stockset\\priceminer2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\et2_operation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:et2_operation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\et1_accountmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:et1_accountmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|E:\\Development\\Git_StockSet\\PriceMiner2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28387B13-9B1D-4D39-BA54-C0B4538DF431}|PriceMiner.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c050_DecisionMaker.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\c050_DecisionMaker.vb",
+              "RelativeDocumentMoniker": "c050_DecisionMaker.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\c050_DecisionMaker.vb",
+              "RelativeToolTip": "c050_DecisionMaker.vb",
+              "ViewState": "AQIAALEHAAAAAAAAAAAkwMYHAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T08:59:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwHkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T12:17:30.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "m00_Global.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\m00_Global.vb",
+              "RelativeDocumentMoniker": "m00_Global.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\m00_Global.vb",
+              "RelativeToolTip": "m00_Global.vb",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAiwIgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T09:01:48.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "et2_Operation.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\et2_Operation.vb",
+              "RelativeDocumentMoniker": "et2_Operation.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\et2_Operation.vb",
+              "RelativeToolTip": "et2_Operation.vb",
+              "ViewState": "AQIAAPoFAAAAAAAAAADwvwgGAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T07:41:01.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "c03_Symbol.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\c03_Symbol.vb",
+              "RelativeDocumentMoniker": "c03_Symbol.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\c03_Symbol.vb",
+              "RelativeToolTip": "c03_Symbol.vb",
+              "ViewState": "AQIAAHIHAAAAAAAAAAAAAHkHAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T08:03:24.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "et1_AccountManager.vb",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\et1_AccountManager.vb",
+              "RelativeDocumentMoniker": "et1_AccountManager.vb",
+              "ToolTip": "E:\\Development\\Git_StockSet\\PriceMiner2\\et1_AccountManager.vb",
+              "RelativeToolTip": "et1_AccountManager.vb",
+              "ViewState": "AQIAAJ4GAAAAAAAAAAASwLoGAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T12:19:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Development\\Git_StockSet\\PriceMiner2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Development\\PriceMiner2\\Form1.vb [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\PriceMiner2\\Form1.vb [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T12:17:27.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

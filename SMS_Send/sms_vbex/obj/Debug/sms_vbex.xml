@@ -1,0 +1,182 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sms_vbex
+</name>
+</assembly>
+<members>
+<member name="T:sms_vbex.My.Resources.Resources">
+<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member>
+<member name="P:sms_vbex.My.Resources.Resources.ResourceManager">
+<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member>
+<member name="P:sms_vbex.My.Resources.Resources.Culture">
+<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대해 현재 스레드의 CurrentUICulture 속성을
+  재정의합니다.
+</summary>
+</member>
+<member name="T:sms_vbex.youiwe.ServiceSMS">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.#ctor">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.SendSMSCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.SendSMSwncCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.SendSMSReserveCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackReserveCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.ReserveCancleCompleted">
+<remarks/>
+</member>
+<member name="E:sms_vbex.youiwe.ServiceSMS.GetRemainCountCompleted">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMS(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSwnc(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSwncAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSwncAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSReserve(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSReserveAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSReserveAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBack(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackReserve(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackReserveAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.SendSMSCallBackReserveAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.ReserveCancle(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.ReserveCancleAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.ReserveCancleAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.GetRemainCount(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.GetRemainCountAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.GetRemainCountAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:sms_vbex.youiwe.ServiceSMS.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.SendSMSCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSwncCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSwncCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.SendSMSwncCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSReserveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSReserveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.SendSMSReserveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCallBackCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCallBackCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.SendSMSCallBackCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCallBackReserveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.SendSMSCallBackReserveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.SendSMSCallBackReserveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.ReserveCancleCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.ReserveCancleCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.ReserveCancleCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.GetRemainCountCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:sms_vbex.youiwe.GetRemainCountCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:sms_vbex.youiwe.GetRemainCountCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

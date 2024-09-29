@@ -1,0 +1,70 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A003060>
+      <MA_BASE_4800 quantity="10" ave_price="428" />
+    </A003060>
+    <A012340>
+      <MA_BASE_9600 quantity="3" ave_price="1406" />
+    </A012340>
+    <A019590>
+      <MA_BASE_2400 quantity="5" ave_price="1031" />
+      <MA_BASE_4800 quantity="1" ave_price="992" />
+    </A019590>
+    <A041020>
+      <MA_BASE_2400 quantity="1" ave_price="5380" />
+      <MA_BASE_4800 quantity="1" ave_price="5340" />
+    </A041020>
+    <A048770>
+      <MA_BASE_2400 quantity="1" ave_price="4260" />
+    </A048770>
+    <A058450>
+      <MA_BASE_9600 quantity="8" ave_price="630" />
+    </A058450>
+    <A069140>
+      <MA_BASE_9600 quantity="1" ave_price="3160" />
+    </A069140>
+    <A109960>
+      <MA_BASE_4800 quantity="3" ave_price="1438" />
+    </A109960>
+    <A114450>
+      <MA_BASE_9600 quantity="2" ave_price="2565" />
+    </A114450>
+    <A195500>
+      <MA_BASE_4800 quantity="1" ave_price="3880" />
+    </A195500>
+    <A217620>
+      <MA_BASE_4800 quantity="5" ave_price="928" />
+      <MA_BASE_9600 quantity="1" ave_price="915" />
+    </A217620>
+    <A250060>
+      <MA_BASE_4800 quantity="1" ave_price="2540" />
+      <MA_BASE_9600 quantity="2" ave_price="2585" />
+    </A250060>
+    <A267320>
+      <MA_BASE_4800 quantity="1" ave_price="4140" />
+    </A267320>
+    <A277410>
+      <MA_BASE_4800 quantity="2" ave_price="2395" />
+      <MA_BASE_9600 quantity="2" ave_price="2110" />
+    </A277410>
+    <A294140>
+      <MA_BASE_2400 quantity="1" ave_price="3975" />
+    </A294140>
+    <A294630>
+      <MA_BASE_4800 quantity="1" ave_price="4065" />
+      <MA_BASE_9600 quantity="1" ave_price="5070" />
+    </A294630>
+    <A307870>
+      <MA_BASE_4800 quantity="1" ave_price="2335" />
+      <MA_BASE_9600 quantity="1" ave_price="2335" />
+    </A307870>
+    <A347770>
+      <MA_BASE_2400 quantity="1" ave_price="5190" />
+      <MA_BASE_4800 quantity="1" ave_price="4435" />
+    </A347770>
+    <A391710>
+      <MA_BASE_4800 quantity="1" ave_price="3690" />
+    </A391710>
+  </SubAccount>
+</stocks>

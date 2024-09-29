@@ -1,0 +1,76 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A011300 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="2" ave_price="1414" />
+      <MA_BASE_9600 quantity="1" ave_price="1437" />
+    </A011300>
+    <A012170 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="2" ave_price="1300" />
+    </A012170>
+    <A019660 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="5" ave_price="953" />
+    </A019660>
+    <A020710 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="4865" />
+      <MA_BASE_9600 quantity="1" ave_price="4865" />
+    </A020710>
+    <A031860 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="2" ave_price="496" />
+    </A031860>
+    <A041960 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="4310" />
+    </A041960>
+    <A049180 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="2150" />
+    </A049180>
+    <A064240 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="3010" />
+    </A064240>
+    <A069330 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="2" ave_price="1470" />
+    </A069330>
+    <A088290 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="1" ave_price="2810" />
+    </A088290>
+    <A096630 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="1" ave_price="1905" />
+    </A096630>
+    <A142760 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="2015" />
+    </A142760>
+    <A191410 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="2145" />
+      <MA_BASE_9600 quantity="1" ave_price="2145" />
+    </A191410>
+    <A204840 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="3" ave_price="1251" />
+      <MA_BASE_4800 quantity="1" ave_price="1157" />
+    </A204840>
+    <A214610 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="5" ave_price="2450" />
+    </A214610>
+    <A214680 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="1" ave_price="3875" />
+    </A214680>
+    <A230980 scan_start_date="2023.09.30">
+      <MA_BASE_2400 quantity="6" ave_price="357" />
+      <MA_BASE_4800 quantity="10" ave_price="545" />
+    </A230980>
+    <A245620 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="11" ave_price="588" />
+    </A245620>
+    <A288330 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="1" ave_price="2820" />
+    </A288330>
+    <A317240 scan_start_date="2023.09.30">
+      <MA_BASE_9600 quantity="6" ave_price="599" />
+    </A317240>
+    <A365330 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="4255" />
+    </A365330>
+    <A452300 scan_start_date="2023.09.30">
+      <MA_BASE_4800 quantity="1" ave_price="4470" />
+    </A452300>
+  </SubAccount>
+</stocks>

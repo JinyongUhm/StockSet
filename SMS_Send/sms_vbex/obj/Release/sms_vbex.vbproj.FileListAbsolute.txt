@@ -1,0 +1,12 @@
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Release\sms_vbex.exe.config
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Release\sms_vbex.exe
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Release\sms_vbex.XmlSerializers.dll
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Release\sms_vbex.pdb
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Release\sms_vbex.xml
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.Resources.resources
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.sms_main.resources
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.vbproj.GenerateResource.Cache
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.exe
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.xml
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.pdb
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Release\sms_vbex.XmlSerializers.dll

@@ -1,0 +1,11 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A347850 scan_start_date="2024.03.17">
+      <MA_BASE_4800 quantity="1" ave_price="30600" />
+    </A347850>
+    <A457190 scan_start_date="2024.03.22">
+      <MA_BASE_4800 quantity="1" ave_price="43950" />
+    </A457190>
+  </SubAccount>
+</stocks>

@@ -1,0 +1,70 @@
+<stocks>
+  <MainAccount />
+  <SubAccount>
+    <A011300>
+      <MA_BASE_4800 quantity="2" ave_price="1414" />
+      <MA_BASE_9600 quantity="1" ave_price="1437" />
+    </A011300>
+    <A019660>
+      <MA_BASE_2400 quantity="2" ave_price="980" />
+      <MA_BASE_9600 quantity="1" ave_price="1020" />
+    </A019660>
+    <A020710>
+      <MA_BASE_4800 quantity="1" ave_price="4865" />
+      <MA_BASE_9600 quantity="1" ave_price="4865" />
+    </A020710>
+    <A041960>
+      <MA_BASE_4800 quantity="1" ave_price="4310" />
+    </A041960>
+    <A049180>
+      <MA_BASE_2400 quantity="1" ave_price="2195" />
+      <MA_BASE_4800 quantity="1" ave_price="2150" />
+    </A049180>
+    <A050090>
+      <MA_BASE_2400 quantity="2" ave_price="1048" />
+    </A050090>
+    <A053950>
+      <MA_BASE_4800 quantity="3" ave_price="1630" />
+    </A053950>
+    <A064240>
+      <MA_BASE_4800 quantity="1" ave_price="3010" />
+    </A064240>
+    <A069330>
+      <MA_BASE_9600 quantity="2" ave_price="1470" />
+    </A069330>
+    <A071950>
+      <MA_BASE_4800 quantity="9" ave_price="580" />
+    </A071950>
+    <A088290>
+      <MA_BASE_9600 quantity="1" ave_price="2810" />
+    </A088290>
+    <A151910>
+      <MA_BASE_2400 quantity="12" ave_price="437" />
+      <MA_BASE_4800 quantity="5" ave_price="403" />
+    </A151910>
+    <A204840>
+      <MA_BASE_2400 quantity="3" ave_price="1251" />
+    </A204840>
+    <A214610>
+      <MA_BASE_4800 quantity="5" ave_price="2450" />
+    </A214610>
+    <A217620>
+      <MA_BASE_9600 quantity="9" ave_price="517" />
+    </A217620>
+    <A230980>
+      <MA_BASE_4800 quantity="10" ave_price="545" />
+    </A230980>
+    <A245620>
+      <MA_BASE_9600 quantity="9" ave_price="588" />
+    </A245620>
+    <A288330>
+      <MA_BASE_9600 quantity="1" ave_price="2820" />
+    </A288330>
+    <A317240>
+      <MA_BASE_9600 quantity="6" ave_price="599" />
+    </A317240>
+    <A365330>
+      <MA_BASE_2400 quantity="1" ave_price="4255" />
+    </A365330>
+  </SubAccount>
+</stocks>

@@ -1,0 +1,118 @@
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\bin\Debug\sms_vbex.exe.config
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\bin\Debug\sms_vbex.exe
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\bin\Debug\sms_vbex.pdb
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\bin\Debug\sms_vbex.xml
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.exe
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.xml
+C:\Users\서현랑\Documents\Visual Studio 2008\Projects\sms_vbex\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\bin\Debug\sms_vbex.exe.config
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.exe
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.xml
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\bin\Debug\sms_vbex.exe
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\bin\Debug\sms_vbex.pdb
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\bin\Debug\sms_vbex.xml
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\ResolveAssemblyReference.cache
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\통큰아이SMSv2소스\vb.net\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\bin\Debug\sms_vbex.exe.config
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.exe
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.xml
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\bin\Debug\sms_vbex.exe
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\bin\Debug\sms_vbex.pdb
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\bin\Debug\sms_vbex.xml
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\ResolveAssemblyReference.cache
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+D:\업무용 폴더\통큰아이SMS셈플\통큰아이 너나우리 최신\너나우리\너나우리v5소스\vb\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.exe.config
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.exe
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.xml
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.pdb
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.exe
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.pdb
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.xml
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+C:\Inetpub\wwwroot\vb.net\꾀꼬리\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.exe.config
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.exe
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.xml
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.pdb
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.exe
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.pdb
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\bin\Debug\sms_vbex.xml
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet(완)\sms_vbex\bin\Debug\sms_vbex.exe.config
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet(완)\sms_vbex\obj\Debug\sms_vbex.exe
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet(완)\sms_vbex\obj\Debug\sms_vbex.xml
+C:\Documents and Settings\share4\My Documents\너나우리소스\sms_vbnet(완)\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Debug\sms_vbex.exe.config
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.exe
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.xml
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Debug\sms_vbex.exe
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Debug\sms_vbex.pdb
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\bin\Debug\sms_vbex.xml
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+D:\temp\181109 SMS 보내기 예제 소스\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+D:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe.config
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.exe
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.xml
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe
+D:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.pdb
+D:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.xml
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.Cache
+D:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPUTILLib.dll
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.ResolveComReference.cache
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.CoreCompileInputs.cache
+D:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPSYSDIBLib.dll
+D:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.DSCBO1Lib.dll
+C:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe.config
+C:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe
+C:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.pdb
+C:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.xml
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.AssemblyReference.cache
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.SuggestedBindingRedirects.cache
+C:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPSYSDIBLib.dll
+C:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPUTILLib.dll
+C:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.DSCBO1Lib.dll
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.ResolveComReference.cache
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.cache
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.CoreCompileInputs.cache
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.exe
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.xml
+C:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.pdb
+D:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.AssemblyReference.cache
+E:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe.config
+E:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.exe
+E:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.pdb
+E:\Development\SMS_Send\sms_vbex\bin\Debug\sms_vbex.xml
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.AssemblyReference.cache
+E:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPSYSDIBLib.dll
+E:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.CPUTILLib.dll
+E:\Development\SMS_Send\sms_vbex\obj\Debug\Interop.DSCBO1Lib.dll
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.ResolveComReference.cache
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.Resources.resources
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.sms_main.resources
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.GenerateResource.cache
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.vbproj.CoreCompileInputs.cache
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.exe
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.xml
+E:\Development\SMS_Send\sms_vbex\obj\Debug\sms_vbex.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Development\\CybosLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7089F740-D61B-43BD-8B4A-59E1160E7950}|CybosLauncher\\CybosLauncher.vbproj|e:\\development\\cyboslauncher\\cyboslauncher\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7089F740-D61B-43BD-8B4A-59E1160E7950}|CybosLauncher\\CybosLauncher.vbproj|solutionrelative:cyboslauncher\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089F740-D61B-43BD-8B4A-59E1160E7950}|CybosLauncher\\CybosLauncher.vbproj|E:\\Development\\CybosLauncher\\cyboslauncher\\c01_symtree.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7089F740-D61B-43BD-8B4A-59E1160E7950}|CybosLauncher\\CybosLauncher.vbproj|solutionrelative:cyboslauncher\\c01_symtree.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "E:\\Development\\CybosLauncher\\CybosLauncher\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "CybosLauncher\\MainWindow.xaml.vb",
+              "ToolTip": "E:\\Development\\CybosLauncher\\CybosLauncher\\MainWindow.xaml.vb",
+              "RelativeToolTip": "CybosLauncher\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAH4AAAAAAAAAAAApwJQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T23:04:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c01_Symtree.vb",
+              "DocumentMoniker": "E:\\Development\\CybosLauncher\\CybosLauncher\\c01_Symtree.vb",
+              "RelativeDocumentMoniker": "CybosLauncher\\c01_Symtree.vb",
+              "ToolTip": "E:\\Development\\CybosLauncher\\CybosLauncher\\c01_Symtree.vb",
+              "RelativeToolTip": "CybosLauncher\\c01_Symtree.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T00:51:46.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

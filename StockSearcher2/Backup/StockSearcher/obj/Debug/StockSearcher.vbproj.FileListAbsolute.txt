@@ -1,0 +1,9 @@
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\Interop.ADOX.dll
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\Interop.CPUTILLib.dll
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\Interop.DSCBO1Lib.dll
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\StockSearcher.vbproj.ResolveComReference.cache
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\StockSearcher.Form1.resources
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\StockSearcher.Resources.resources
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\StockSearcher.uc0_ListViewSortable.resources
+D:\Development\StockSearcher\Backup\StockSearcher\obj\Debug\StockSearcher.vbproj.GenerateResource.Cache
