@@ -3,8 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# 다시 없애기
+.vs
 
+PriceMiner2/obj
+PriceMiner2/bin/Debug/*
+PriceMiner2/bin/Release/*
 !PriceMiner2/bin/Debug/CandleServiceInterfacePrj.dll
 !PriceMiner2/bin/Debug/GraphLib.dll
 !PriceMiner2/bin/Debug/stocks_for_tomorrow.xml
@@ -12,5 +15,16 @@
 !PriceMiner2/bin/Release/GraphLib.dll
 !PriceMiner2/bin/Release/stocks_for_tomorrow.xml
 
+StockSearcher2/StockSearcher/obj
+StockSearcher2/StockSearcher/bin/Debug/*
+StockSearcher2/StockSearcher/bin/Release/*
 !StockSearcher2/StockSearcher/bin/Debug/GraphLib.dll
 !StockSearcher2/StockSearcher/bin/Release/GraphLib.dll
+
+CybosLauncher/CandleServiceInterfacePrj/obj
+CybosLauncher/CandleServiceInterfacePrj/bin
+CybosLauncher/CybosLauncher/obj
+CybosLauncher/CybosLauncher/bin
+
+SMS_Send/sms_vbex/obj
+SMS_Send/sms_vbex/bin
