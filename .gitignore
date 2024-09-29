@@ -3,12 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+## User-specific files
+#*.rsuser
+#*.suo
+#*.user
+#*.userosscache
+#*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -26,6 +26,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
+PriceMiner2/bin/Debug/*
+!PriceMiner2/bin/Debug/CandleServiceInterfacePrj.dll
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
