@@ -4,11 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 ## User-specific files
-#*.rsuser
-#*.suo
-#*.user
-#*.userosscache
-#*.sln.docstates
+# *.rsuser
+# *.suo
+# *.user
+# *.userosscache
+# *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -28,6 +28,16 @@ x86/
 bld/
 PriceMiner2/bin/Debug/*
 !PriceMiner2/bin/Debug/CandleServiceInterfacePrj.dll
+!PriceMiner2/bin/Debug/GraphLib.dll
+!PriceMiner2/bin/Debug/stocks_for_tomorrow.xml
+PriceMiner2/bin/Release/*
+!PriceMiner2/bin/Release/CandleServiceInterfacePrj.dll
+!PriceMiner2/bin/Release/GraphLib.dll
+!PriceMiner2/bin/Release/stocks_for_tomorrow.xml
+StockSearcher2/bin/Debug/*
+!StockSearcher2/bin/Debug/GraphLib.dll
+StockSearcher2/bin/Release/*
+!StockSearcher2/bin/Release/GraphLib.dll
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
