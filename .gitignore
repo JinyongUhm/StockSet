@@ -12,5 +12,5 @@
 !PriceMiner2/bin/Release/GraphLib.dll
 !PriceMiner2/bin/Release/stocks_for_tomorrow.xml
 
-!StockSearcher2/bin/Debug/GraphLib.dll
-!StockSearcher2/bin/Release/GraphLib.dll
+!StockSearcher2/StockSearcher/bin/Debug/GraphLib.dll
+!StockSearcher2/StockSearcher/bin/Release/GraphLib.dll
