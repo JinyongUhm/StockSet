@@ -351,7 +351,7 @@ Public Class Form1
 
         If _WhatToLoad = _EnumWhatToLoad.LOAD_SYMBOLCOLLECTION_PASTCANDLE Then
             'CybosLauncher를 실행한다.
-            Process.Start("E:\Development\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
+            Process.Start("..\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
             'CybosLauncher가 기본 정보를 전송할 때까지 기다린다.
             While Not Threading.Mutex.TryOpenExisting("CybosBasicDataMutex", CybosBasicDataMutex)
                 System.Threading.Thread.Sleep(100)
@@ -417,7 +417,7 @@ Public Class Form1
             CandleLoadNotFinishedYet = False
         ElseIf _WhatToLoad = _EnumWhatToLoad.LOAD_SYMBOLCOLLECTION Then
             'CybosLauncher를 실행한다.
-            Process.Start("E:\Development\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
+            Process.Start("..\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
             'CybosLauncher가 기본 정보를 전송할 때까지 기다린다.
             While Not Threading.Mutex.TryOpenExisting("CybosBasicDataMutex", CybosBasicDataMutex)
                 System.Threading.Thread.Sleep(100)
@@ -765,7 +765,7 @@ Public Class Form1
                     If My.Computer.Network.Ping("www.google.com") = True Then
                         CybosRealDataMutex = Nothing    '기존 real data mutex를 버린다.
 
-                        Process.Start("E:\Development\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
+                        Process.Start("..\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
                         MessageLogging("MainForm CybosLauncher 재시작됨")
                         CpRestartStep = _EnumCpRestartStep.CP_RESTART_CHECK_CP_STUCK_RESOLVED
                     End If
