@@ -351,7 +351,7 @@ Public Class Form1
 
         If _WhatToLoad = _EnumWhatToLoad.LOAD_SYMBOLCOLLECTION_PASTCANDLE Then
             'CybosLauncher를 실행한다.
-            Process.Start("..\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
+            Process.Start("..\..\..\CybosLauncher\CybosLauncher\bin\Release\CybosLauncher.exe")
             'CybosLauncher가 기본 정보를 전송할 때까지 기다린다.
             While Not Threading.Mutex.TryOpenExisting("CybosBasicDataMutex", CybosBasicDataMutex)
                 System.Threading.Thread.Sleep(100)

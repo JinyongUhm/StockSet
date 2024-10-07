@@ -171,8 +171,8 @@ Public Class c03_Symbol
     Public SymbolIndex As Integer
     Public DelayedSampleListBuy As New List(Of DelayedSampleRecord)
     Public DelayedSampleListSel As New List(Of DelayedSampleRecord)
-    Public DelayTimeBuy As TimeSpan = TimeSpan.FromSeconds(51)
-    Public DelayTimeSel As TimeSpan = TimeSpan.FromSeconds(51)
+    Public DelayTimeBuy As TimeSpan = TimeSpan.FromSeconds(10)
+    Public DelayTimeSel As TimeSpan = TimeSpan.FromSeconds(10)
 
     Public ReadOnly Property IsCallPriceAvailable As Boolean
         Get
@@ -390,6 +390,112 @@ Public Class c03_Symbol
             End If
         End Get
     End Property
+
+    '현재 매도1호가 와 매수1호가 의 평균. 둘 중 하나가 0 인 경우 0이 아닌 다른 쪽의 값을 리턴
+    Public ReadOnly Property AveCallPrice As UInt32
+        Get
+            SafeEnterTrace(CallPriceKey, 160)      'Enter critical zone, Thread간 공유문제 발생예방------------------------------------┐
+            If DelayedSampleListBuy.Count = 0 Then
+                If DelayedSampleListSel.Count = 0 Then
+                    '기록된 샘플이 없다. failsafe 차원에서 현재값을 리턴한다.
+                    If RecordList.Count = 0 Then
+                        '현재값조차 없다 => 0 을 리턴한다.
+                        SafeLeaveTrace(CallPriceKey, 161)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+                        Return 0
+                    Else
+                        SafeLeaveTrace(CallPriceKey, 162)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+                        Return RecordList.Last.Price
+                    End If
+                Else
+                    '기록된 샘플 중 최신 Sel 호가를 리턴한다.
+                    SafeLeaveTrace(CallPriceKey, 163)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+                    Return DelayedSampleListSel.Last.Price
+                End If
+            Else
+                If DelayedSampleListSel.Count = 0 Then
+                    '기록된 샘플 중 최신 Buy 호가를 리턴한다.
+                    SafeLeaveTrace(CallPriceKey, 164)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+                    Return DelayedSampleListBuy.Last.Price
+                Else
+                    '기록된 샘플 중 최신 Sel 호가와 최신 Buy 호가의 평균을 리턴한다.
+                    SafeLeaveTrace(CallPriceKey, 165)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+                    Return (DelayedSampleListBuy.Last.Price + DelayedSampleListSel.Last.Price) / 2
+                End If
+            End If
+        End Get
+    End Property
+
+    '과거 how_long_sec 초 동안의 Buy 호가 평균값
+    Public Function MA_BuyCallPrice(how_long_sec As Integer) As UInt32
+        Dim now_time = Now.TimeOfDay
+        Dim end_time = now_time - TimeSpan.FromSeconds(how_long_sec)
+        Dim sample_count As Integer = 0
+        Dim sum As UInt32 = 0
+
+        SafeEnterTrace(CallPriceKey, 170)      'Enter critical zone, Thread간 공유문제 발생예방------------------------------------┐
+
+        For index = DelayedSampleListBuy.Count - 1 To 0 Step -1
+            '뒤에서부터 한 샘플씩 시간을 확인하면서 가격을 더하고 샘플갯수를 count 한다.
+            If DelayedSampleListBuy(index).Time < end_time Then
+                '관심 영역 밖으로 나갔으니 여기서 계산을 끝낸다.
+                Exit For
+            End If
+            If DelayedSampleListBuy(index).Price <> 0 Then
+                sample_count += 1
+                sum += DelayedSampleListBuy(index).Price
+            Else
+                '0인 경우 sample 로 간주하지 않는다.
+            End If
+        Next
+
+        SafeLeaveTrace(CallPriceKey, 171)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+        If sample_count = 0 Then
+            If RecordList.Count = 0 Then
+                Return 0
+            Else
+                Return RecordList.Last.Price
+            End If
+        Else
+            Return sum / sample_count
+        End If
+    End Function
+
+    '과거 how_long_sec 초 동안의 Sel 호가 평균값
+    Public Function MA_SelCallPrice(how_long_sec As Integer) As UInt32
+        Dim now_time = Now.TimeOfDay
+        Dim end_time = now_time - TimeSpan.FromSeconds(how_long_sec)
+        Dim sample_count As Integer = 0
+        Dim sum As UInt32 = 0
+
+        SafeEnterTrace(CallPriceKey, 180)      'Enter critical zone, Thread간 공유문제 발생예방------------------------------------┐
+
+        For index = DelayedSampleListSel.Count - 1 To 0 Step -1
+            '뒤에서부터 한 샘플씩 시간을 확인하면서 가격을 더하고 샘플갯수를 count 한다.
+            If DelayedSampleListSel(index).Time < end_time Then
+                '관심 영역 밖으로 나갔으니 여기서 계산을 끝낸다.
+                Exit For
+            End If
+            If DelayedSampleListSel(index).Price <> 0 Then
+                sample_count += 1
+                sum += DelayedSampleListSel(index).Price
+            Else
+                '0인 경우 sample 로 간주하지 않는다.
+            End If
+        Next
+
+        SafeLeaveTrace(CallPriceKey, 181)      'Leave critical zone, Thread간 공유문제 발생예방------------------------------------┘
+        If sample_count = 0 Then
+            If RecordList.Count = 0 Then
+                Return 0
+            Else
+                Return RecordList.Last.Price
+            End If
+        Else
+            Return sum / sample_count
+        End If
+    End Function
+
+
 
     Public Sub New(ByVal symbol_code As String, ByVal symbol_name As String, ByVal symbol_index As Integer)
         'CodeIndex = code_index

@@ -74,7 +74,7 @@ Public Class et2_Operation
     'Public CallPriceKey As Integer
     'Public OperationKey As Integer
     Public DebugDONEDONE As String
-    Public DelayFishing As Boolean = True
+    Public DelayFishing As Boolean = False
 
     '[OneKey] CALLED IN THE PROTECTED ZONE--------------------------------------------------------------------┐
     Public ReadOnly Property OpStatus
@@ -1534,22 +1534,26 @@ Public Class et2_Operation
             Dim the_symbol As c03_Symbol = _DecisionMaker.LinkedSymbol
             If this_pcrenew.DelayBuyCallPricePointList.Count = 0 AndAlso OnlyAFewChanceLeft > 0 Then
                 'LPF buy 가격을 비주얼라이즈 해보자
-                this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceBuy))
+                'this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceBuy))
+                this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.AveCallPrice))
                 OnlyAFewChanceLeft = OnlyAFewChanceLeft - 1
             End If
             If this_pcrenew.DelayBuyCallPricePointList.Count > 0 Then
                 'LPF buy 가격을 비주얼라이즈 해보자
-                this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceBuy))
+                'this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceBuy))
+                this_pcrenew.DelayBuyCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.AveCallPrice))
             End If
 
             If this_pcrenew.DelaySelCallPricePointList.Count = 0 AndAlso OnlyAFewChanceLeft > 0 Then
                 'LPF sel 가격을 비주얼라이즈 해보자
-                this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceSel))
+                'this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceSel))
+                this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, (the_symbol.MA_SelCallPrice(5) + the_symbol.MA_BuyCallPrice(5)) / 2))
                 OnlyAFewChanceLeft = OnlyAFewChanceLeft - 1
             End If
             If this_pcrenew.DelaySelCallPricePointList.Count > 0 Then
                 'LPF sel 가격을 비주얼라이즈 해보자
-                this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceSel))
+                'this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, the_symbol.LPFPriceSel))
+                this_pcrenew.DelaySelCallPricePointList.Add(New PointF(Now.TimeOfDay.TotalSeconds, (the_symbol.MA_SelCallPrice(5) + the_symbol.MA_BuyCallPrice(5)) / 2))
             End If
         End If
 
