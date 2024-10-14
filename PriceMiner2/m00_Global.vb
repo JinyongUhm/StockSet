@@ -73,7 +73,7 @@ Public Enum RequestFormat
 End Enum
 
 Module m00_Global
-    Public OnlyAFewChanceLeft As UInt32 = 12
+    Public OnlyAFewChanceLeft As UInt32 = 40
     Public Const CALLBACK_FAST_RETURN_WAIT As Boolean = False
     Public Const SC0_CONFIRM_SUPPORT As Boolean = False
     Public Const ACCESS_SIMUL_DB As Boolean = False
